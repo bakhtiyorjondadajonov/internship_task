@@ -13,3 +13,7 @@ This task analyzes and visualizes the deviations of predicted model outputs (flo
 - Save plots for further review and analysis.
 
 
+## Install Dependencies
+Ensure you have Python installed, then install the required libraries:
+
+`pip install -r requirements.txt`
